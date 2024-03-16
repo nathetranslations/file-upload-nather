@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HP161/excel-utils-phuongdh.git"
+    "url": "https://github.com/nathetranslations/file-upload-nather.git"
   },
   "keywords": [
-    "excel-utils"
+    "file-upload"
   ],
-  "author": "HP161",
+  "author": "nathetranslations",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HP161/excel-utils-phuongdh/issues"
+    "url": "https://github.com/nathetranslations/file-upload-nather/issues"
   },
-  "homepage": "https://github.com/HP161/excel-utils-phuongdh#readme",
+  "homepage": "https://github.com/nathetranslations/file-upload-nather#readme",
   "dependencies": {
     "express": "^4.18.3",
-    "multer": "^1.4.5-lts.1",
+    "multer": "^1.4.5-lts.1"
   }
 }
