@@ -14,6 +14,7 @@ Next, install the necessary dependencies, express and multer.
 
 # npm install express multer
 
+# npm install multer
 
 Install the package
 
@@ -21,10 +22,10 @@ npm install file-upload-nather
 
 
 ## Helpful links
-- [Documentation](https://github.com/HP161/excel-utils-phuongdh.git)
+- [Documentation](https://github.com/nathetranslations/file-upload-nather.git)
 
-- [See on NPM package](https://www.npmjs.com/package/excel-utils-phuongdh)
+- [See on NPM package](https://www.npmjs.com/package/file-upload-nather)
 
 ## Licence
 [MIT](./LICENSE)
-# excel-utils-phuongdh
+# file-upload-nather
