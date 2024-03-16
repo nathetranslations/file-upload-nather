@@ -1,0 +1,26 @@
+{
+  "name": "file-upload-nather",
+  "version": "1.0.0",
+  "description": "library for upload files in Node.js",
+  "main": "1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HP161/excel-utils-phuongdh.git"
+  },
+  "keywords": [
+    "excel-utils"
+  ],
+  "author": "HP161",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HP161/excel-utils-phuongdh/issues"
+  },
+  "homepage": "https://github.com/HP161/excel-utils-phuongdh#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "multer": "^1.4.5-lts.1",
+  }
+}
